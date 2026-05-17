@@ -1,7 +1,9 @@
 ---
 title: "Javascript 변수 정리"
 date: 2026-05-17
-draft: false         # ← 이걸 false로 바꿔야 실제로 올라가요!
+draft: false
+tags: ["Javascript"]
+categories: ["Javascript"]
 ---
 
 ## var, let, const 차이

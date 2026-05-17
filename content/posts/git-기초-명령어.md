@@ -1,8 +1,10 @@
-+++
-date = '2026-05-17T21:24:02+09:00'
-draft = false
-title = 'Git 기초 명령어'
-+++
+---
+title: "Git 기초 명령어"
+date: 2026-05-17
+draft: false
+tags: ["GIT"]
+categories: ["GIT 사용법"]
+---
 
 Git 기본 명령어
 1. 저장소 초기화
