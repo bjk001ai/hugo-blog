@@ -1,11 +1,40 @@
-baseURL = "https://bjk001ai.github.io/"
+baseURL = "https://bjk001ai.github.io/hugo-blog/"
 languageCode = "ko-kr"
 title = "Dev.log 👨‍💻"
 theme = "PaperMod"
+paginate = 5
 
 [params]
-  homeInfoParams = {Title = "안녕하세요 👋", Content = "개발 공부를 기록하는 블로그입니다"}
+  defaultTheme = "auto"
   ShowReadingTime = true
   ShowShareButtons = false
   ShowPostNavLinks = true
-  defaultTheme = "auto"  # 다크모드 자동
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+
+  [params.homeInfoParams]
+    Title = "안녕하세요, Dev.log 입니다 👋"
+    Content = """
+개발 공부를 기록하는 블로그입니다.  
+JavaScript, CS 지식, 웹 개발 등 다양한 주제를 다룹니다.  
+꾸준히, 깊게, 함께 성장해요 🚀
+"""
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/bjk001ai"
+
+[menu]
+  [[menu.main]]
+    name = "글 목록"
+    url = "/hugo-blog/posts/"
+    weight = 1
+  [[menu.main]]
+    name = "태그"
+    url = "/hugo-blog/tags/"
+    weight = 2
+  [[menu.main]]
+    name = "소개"
+    url = "/hugo-blog/about/"
+    weight = 3
