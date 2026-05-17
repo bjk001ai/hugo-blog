@@ -1,0 +1,11 @@
+baseURL = "https://bjk001ai.github.io/"
+languageCode = "ko-kr"
+title = "Dev.log 👨‍💻"
+theme = "PaperMod"
+
+[params]
+  homeInfoParams = {Title = "안녕하세요 👋", Content = "개발 공부를 기록하는 블로그입니다"}
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  defaultTheme = "auto"  # 다크모드 자동
