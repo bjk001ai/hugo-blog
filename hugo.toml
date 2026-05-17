@@ -28,13 +28,13 @@ JavaScript, CS 지식, 웹 개발 등 다양한 주제를 다룹니다.
 [menu]
   [[menu.main]]
     name = "글 목록"
-    url = "/hugo-blog/posts/"
+    url = "/posts/"
     weight = 1
   [[menu.main]]
     name = "태그"
-    url = "/hugo-blog/tags/"
+    url = "/tags/"
     weight = 2
   [[menu.main]]
     name = "소개"
-    url = "/hugo-blog/about/"
+    url = "/about/"
     weight = 3
