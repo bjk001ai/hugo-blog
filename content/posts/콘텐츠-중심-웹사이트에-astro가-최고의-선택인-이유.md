@@ -1,6 +1,6 @@
 ---
-title: "콘텐츠 중심 웹사이트에 Astro가 최고의 선택인 이유 (제 3권)"
-date: 2026-05-20T08:10:40.341Z
+title: "콘텐츠 중심 웹사이트에 Astro가 최고의 선택인 이유"
+date: 2026-05-22T15:44:00.317Z
 draft: false
 categories: ["tech"]
 ---

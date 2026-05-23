@@ -1,5 +1,5 @@
 ---
-title: "실무에서 유용한 Postgres 인덱스 패턴 가이드 (제 1권)"
+title: "실무에서 유용한 Postgres 인덱스 패턴 가이드"
 date: 2026-05-22T18:30:40.317Z
 draft: false
 categories: ["tech"]

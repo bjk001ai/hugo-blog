@@ -1,6 +1,6 @@
 ---
-title: "Tailwind CSS v4로 반응형 인터페이스 구축하기 (제 3권)"
-date: 2026-05-21T00:50:40.337Z
+title: "Tailwind CSS v4로 반응형 인터페이스 구축하기"
+date: 2026-05-23T08:24:00.312Z
 draft: false
 categories: ["design"]
 ---

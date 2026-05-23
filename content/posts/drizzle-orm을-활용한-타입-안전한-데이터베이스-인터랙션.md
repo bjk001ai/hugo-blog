@@ -1,6 +1,6 @@
 ---
-title: "Drizzle ORM을 활용한 타입 안전한 데이터베이스 인터랙션 (제 3권)"
-date: 2026-05-20T19:17:20.338Z
+title: "Drizzle ORM을 활용한 타입 안전한 데이터베이스 인터랙션"
+date: 2026-05-23T02:50:40.315Z
 draft: false
 categories: ["tech"]
 ---
