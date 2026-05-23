@@ -2,7 +2,9 @@
 title: "실무 관점의 TypeScript 엄격 모드 설정 안전한 설계 가이드 (#74)"
 date: 2026-05-14T21:37:20.368Z
 draft: false
+
 categories: ["tech"]
+tags: ["tech"]
 ---
 
 ## ⚡ 서버리스 에지 함수(Edge Functions) 대기 시간 및 콜드 스타트 극복

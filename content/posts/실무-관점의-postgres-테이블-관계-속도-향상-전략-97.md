@@ -2,7 +2,9 @@
 title: "실무 관점의 Postgres 테이블 관계 속도 향상 전략 (#97)"
 date: 2026-05-12T05:44:00.378Z
 draft: false
+
 categories: ["tech"]
+tags: ["tech"]
 ---
 
 ## 🚀 Astro 아키텍처: 왜 대형 테크 포털은 static 기반 Astro를 선택할까?

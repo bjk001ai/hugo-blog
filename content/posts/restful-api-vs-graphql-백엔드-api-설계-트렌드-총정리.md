@@ -2,7 +2,9 @@
 title: "RESTful API vs GraphQL: 백엔드 API 설계 트렌드 총정리"
 date: 2026-05-22T22:57:12.536Z
 draft: false
+
 categories: ["CS 지식"]
+tags: ["CS 지식"]
 ---
 
 

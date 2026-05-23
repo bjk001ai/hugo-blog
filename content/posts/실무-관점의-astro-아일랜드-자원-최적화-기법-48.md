@@ -2,7 +2,9 @@
 title: "실무 관점의 Astro 아일랜드 자원 최적화 기법 (#48)"
 date: 2026-05-17T21:50:40.352Z
 draft: false
+
 categories: ["design"]
+tags: ["design"]
 ---
 
 ## 🎨 완벽한 다크 모드(Dark Mode) 설계를 위한 고급 색채 디자인 이론

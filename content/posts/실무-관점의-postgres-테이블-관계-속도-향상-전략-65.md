@@ -2,7 +2,9 @@
 title: "실무 관점의 Postgres 테이블 관계 속도 향상 전략 (#65)"
 date: 2026-05-15T22:37:20.364Z
 draft: false
+
 categories: ["life"]
+tags: ["life"]
 ---
 
 ## 🧘 2026년 개발자의 번아웃 예방 및 지속 가능한 코딩 생태계 구축

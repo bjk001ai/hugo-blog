@@ -2,7 +2,9 @@
 title: "실무 관점의 TypeScript 엄격 모드 설정 안전한 설계 가이드 (#66)"
 date: 2026-05-15T19:50:40.365Z
 draft: false
+
 categories: ["tech"]
+tags: ["tech"]
 ---
 
 ## 🗂️ 실무 개발자를 위한 Postgres 인덱스(Indexing) 설계 패턴 총정리

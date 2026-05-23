@@ -2,7 +2,9 @@
 title: "실무 관점의 API 캐시 라우팅 디버깅 실무 (#70)"
 date: 2026-05-15T08:44:00.366Z
 draft: false
+
 categories: ["tech"]
+tags: ["tech"]
 ---
 
 ## 🏝️ Astro 5.0 아일랜드 하이드레이션 전략

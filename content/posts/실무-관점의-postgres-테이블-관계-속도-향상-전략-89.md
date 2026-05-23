@@ -2,7 +2,9 @@
 title: "실무 관점의 Postgres 테이블 관계 속도 향상 전략 (#89)"
 date: 2026-05-13T03:57:20.375Z
 draft: false
+
 categories: ["life"]
+tags: ["life"]
 ---
 
 ## 💻 원격 소프트웨어 아키텍트의 하루와 고부가가치 시스템 설계

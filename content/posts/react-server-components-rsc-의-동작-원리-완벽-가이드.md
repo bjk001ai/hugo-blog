@@ -2,7 +2,9 @@
 title: "React Server Components(RSC)의 동작 원리 완벽 가이드"
 date: 2026-05-23T07:50:32.526Z
 draft: false
+
 categories: ["React"]
+tags: ["React"]
 ---
 
 

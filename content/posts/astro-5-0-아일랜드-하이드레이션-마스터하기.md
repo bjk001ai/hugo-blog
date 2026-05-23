@@ -2,7 +2,9 @@
 title: "Astro 5.0 아일랜드 하이드레이션 마스터하기"
 date: 2026-05-22T07:24:00.319Z
 draft: false
+
 categories: ["tech"]
+tags: ["tech"]
 ---
 
 ## 🏝️ Astro 5.0 아일랜드 하이드레이션 전략

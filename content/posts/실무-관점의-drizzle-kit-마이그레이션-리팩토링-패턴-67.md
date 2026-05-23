@@ -2,7 +2,9 @@
 title: "실무 관점의 Drizzle Kit 마이그레이션 리팩토링 패턴 (#67)"
 date: 2026-05-15T17:04:00.365Z
 draft: false
+
 categories: ["tech"]
+tags: ["tech"]
 ---
 
 ## 🚀 Astro 아키텍처: 왜 대형 테크 포털은 static 기반 Astro를 선택할까?

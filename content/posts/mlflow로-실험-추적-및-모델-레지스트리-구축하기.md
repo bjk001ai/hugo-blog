@@ -2,7 +2,9 @@
 title: "MLflow로 실험 추적 및 모델 레지스트리 구축하기"
 date: 2026-05-23T03:57:12.530Z
 draft: false
+
 categories: ["MLOps"]
+tags: ["MLOps"]
 ---
 
 

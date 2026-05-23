@@ -2,7 +2,9 @@
 title: "Drizzle ORM을 활용한 타입 안전한 데이터베이스 인터랙션"
 date: 2026-05-23T02:50:40.315Z
 draft: false
+
 categories: ["tech"]
+tags: ["tech"]
 ---
 
 ## ⚡ Drizzle ORM과 TypeScript: 완벽한 타입 안전 데이터베이스 설계

@@ -2,7 +2,9 @@
 title: "실무 관점의 TypeScript 엄격 모드 설정 안전한 설계 가이드 (#82)"
 date: 2026-05-13T23:24:00.372Z
 draft: false
+
 categories: ["design"]
+tags: ["design"]
 ---
 
 ## ✨ 실무용 프리미엄 글래스모피즘(Glassmorphic) 디자인 시스템

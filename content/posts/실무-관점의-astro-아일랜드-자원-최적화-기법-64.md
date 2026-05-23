@@ -2,7 +2,9 @@
 title: "실무 관점의 Astro 아일랜드 자원 최적화 기법 (#64)"
 date: 2026-05-16T01:24:00.363Z
 draft: false
+
 categories: ["tech"]
+tags: ["tech"]
 ---
 
 ## ⚡ 서버리스 에지 함수(Edge Functions) 대기 시간 및 콜드 스타트 극복

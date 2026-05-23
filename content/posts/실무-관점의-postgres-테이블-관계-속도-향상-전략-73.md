@@ -2,7 +2,9 @@
 title: "실무 관점의 Postgres 테이블 관계 속도 향상 전략 (#73)"
 date: 2026-05-15T00:24:00.368Z
 draft: false
+
 categories: ["tech"]
+tags: ["tech"]
 ---
 
 ## ⚡ Drizzle ORM과 TypeScript: 완벽한 타입 안전 데이터베이스 설계

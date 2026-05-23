@@ -2,7 +2,9 @@
 title: "Kubeflow를 활용한 머신러닝 파이프라인 자동화 설계"
 date: 2026-05-23T04:30:32.530Z
 draft: false
+
 categories: ["MLOps"]
+tags: ["MLOps"]
 ---
 
 

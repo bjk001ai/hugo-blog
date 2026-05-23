@@ -2,7 +2,9 @@
 title: "실무 관점의 TypeScript 엄격 모드 설정 안전한 설계 가이드 (#50)"
 date: 2026-05-17T16:17:20.353Z
 draft: false
+
 categories: ["tech"]
+tags: ["tech"]
 ---
 
 ## 🏝️ Astro 5.0 아일랜드 하이드레이션 전략

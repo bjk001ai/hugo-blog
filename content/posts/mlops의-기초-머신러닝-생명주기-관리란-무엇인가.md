@@ -2,7 +2,9 @@
 title: "MLOps의 기초: 머신러닝 생명주기 관리란 무엇인가?"
 date: 2026-05-23T05:37:12.529Z
 draft: false
+
 categories: ["MLOps"]
+tags: ["MLOps"]
 ---
 
 

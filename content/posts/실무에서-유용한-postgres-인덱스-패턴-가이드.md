@@ -2,7 +2,9 @@
 title: "실무에서 유용한 Postgres 인덱스 패턴 가이드"
 date: 2026-05-22T18:30:40.317Z
 draft: false
+
 categories: ["tech"]
+tags: ["tech"]
 ---
 
 ## 🗂️ 실무 개발자를 위한 Postgres 인덱스(Indexing) 설계 패턴 총정리

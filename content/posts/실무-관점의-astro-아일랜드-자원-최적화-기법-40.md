@@ -2,7 +2,9 @@
 title: "실무 관점의 Astro 아일랜드 자원 최적화 기법 (#40)"
 date: 2026-05-18T20:04:00.348Z
 draft: false
+
 categories: ["tech"]
+tags: ["tech"]
 ---
 
 ## 🏝️ Astro 5.0 아일랜드 하이드레이션 전략

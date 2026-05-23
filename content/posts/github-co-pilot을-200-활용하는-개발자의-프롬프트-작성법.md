@@ -2,7 +2,9 @@
 title: "GitHub Co-pilot을 200% 활용하는 개발자의 프롬프트 작성법"
 date: 2026-05-23T01:43:52.533Z
 draft: false
+
 categories: ["Github"]
+tags: ["Github"]
 ---
 
 

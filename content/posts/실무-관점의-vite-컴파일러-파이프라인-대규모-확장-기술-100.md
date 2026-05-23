@@ -2,7 +2,9 @@
 title: "실무 관점의 Vite 컴파일러 파이프라인 대규모 확장 기술 (#100)"
 date: 2026-05-11T21:24:00.380Z
 draft: false
+
 categories: ["tech"]
+tags: ["tech"]
 ---
 
 ## 🏝️ Astro 5.0 아일랜드 하이드레이션 전략

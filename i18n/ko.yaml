@@ -1,0 +1,63 @@
+- id: prev_page
+  translation: "이전"
+
+- id: next_page
+  translation: "다음"
+
+- id: read_time
+  translation:
+    one: "1분 읽기"
+    other: "{{ .Count }}분 읽기"
+
+- id: words
+  translation:
+    one: "단어 1개"
+    other: "단어 {{ .Count }}개"
+
+- id: toc
+  translation: "목차"
+
+- id: translations
+  translation: "번역"
+
+- id: home
+  translation: "홈"
+
+- id: edit_post
+  translation: "편집"
+
+- id: code_copy
+  translation: "복사"
+
+- id: code_copied
+  translation: "복사됨!"
+
+- id: scroll_to_top
+  translation: "맨 위로"
+
+- id: scroll_to_top_title
+  translation: "맨 위로 (Alt + G)"
+
+- id: powered_by
+  translation: "제공"
+
+- id: toggle_theme
+  translation: "테마 전환"
+
+- id: alt_h
+  translation: "(Alt + H)"
+
+- id: alt_t
+  translation: "(Alt + T)"
+
+- id: alt_search
+  translation: " (Alt + /)"
+
+- id: logo
+  translation: "로고"
+
+- id: search
+  translation: "검색"
+
+- id: search_results
+  translation: "검색 결과"

@@ -2,7 +2,9 @@
 title: "실무 관점의 Drizzle Kit 마이그레이션 리팩토링 패턴 (#91)"
 date: 2026-05-12T22:24:00.376Z
 draft: false
+
 categories: ["design"]
+tags: ["design"]
 ---
 
 ## 🎨 Tailwind CSS v4 반응형 레이아웃 설계 가이드

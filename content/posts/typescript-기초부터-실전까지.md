@@ -2,7 +2,9 @@
 title: "TypeScript 기초부터 실전까지"
 date: 2026-05-22T07:17:12.544Z
 draft: false
+
 categories: ["Programming"]
+tags: ["Programming"]
 ---
 
 

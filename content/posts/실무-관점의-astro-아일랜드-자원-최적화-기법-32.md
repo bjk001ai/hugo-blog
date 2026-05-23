@@ -2,7 +2,9 @@
 title: "실무 관점의 Astro 아일랜드 자원 최적화 기법 (#32)"
 date: 2026-05-19T18:17:20.343Z
 draft: false
+
 categories: ["design"]
+tags: ["design"]
 ---
 
 ## ✨ 실무용 프리미엄 글래스모피즘(Glassmorphic) 디자인 시스템

@@ -2,7 +2,9 @@
 title: "콘텐츠 중심 웹사이트에 Astro가 최고의 선택인 이유"
 date: 2026-05-22T15:44:00.317Z
 draft: false
+
 categories: ["tech"]
+tags: ["tech"]
 ---
 
 ## 🚀 Astro 아키텍처: 왜 대형 테크 포털은 static 기반 Astro를 선택할까?

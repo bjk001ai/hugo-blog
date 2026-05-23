@@ -2,7 +2,9 @@
 title: "CI/CD 기초와 GitHub Actions 파이프라인"
 date: 2026-05-22T02:50:32.549Z
 draft: false
+
 categories: ["DevOps"]
+tags: ["DevOps"]
 ---
 
 

@@ -2,7 +2,9 @@
 title: "실무 관점의 차세대 CSS 변수 아키텍처 설계법 (#77)"
 date: 2026-05-14T13:17:20.369Z
 draft: false
+
 categories: ["tech"]
+tags: ["tech"]
 ---
 
 ## 🚀 Astro 아키텍처: 왜 대형 테크 포털은 static 기반 Astro를 선택할까?

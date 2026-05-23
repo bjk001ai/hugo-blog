@@ -2,7 +2,9 @@
 title: "OAuth 2.0 카카오/구글 소셜 로그인 동작 프로세스 이해"
 date: 2026-05-22T21:50:32.537Z
 draft: false
+
 categories: ["CS 지식"]
+tags: ["CS 지식"]
 ---
 
 

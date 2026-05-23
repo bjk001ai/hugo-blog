@@ -2,7 +2,9 @@
 title: "실무 관점의 Astro 아일랜드 자원 최적화 기법 (#56)"
 date: 2026-05-16T23:37:20.357Z
 draft: false
+
 categories: ["tech"]
+tags: ["tech"]
 ---
 
 ## 🗂️ 실무 개발자를 위한 Postgres 인덱스(Indexing) 설계 패턴 총정리

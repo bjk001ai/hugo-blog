@@ -2,7 +2,9 @@
 title: "Tailwind CSS v4로 반응형 인터페이스 구축하기"
 date: 2026-05-23T08:24:00.312Z
 draft: false
+
 categories: ["design"]
+tags: ["design"]
 ---
 
 ## 🎨 Tailwind CSS v4 반응형 레이아웃 설계 가이드

@@ -2,7 +2,9 @@
 title: "실무 관점의 Vite 컴파일러 파이프라인 대규모 확장 기술 (#84)"
 date: 2026-05-13T17:50:40.372Z
 draft: false
+
 categories: ["tech"]
+tags: ["tech"]
 ---
 
 ## ⚡ 서버리스 에지 함수(Edge Functions) 대기 시간 및 콜드 스타트 극복

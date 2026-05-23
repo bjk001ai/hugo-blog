@@ -2,7 +2,9 @@
 title: "실무 관점의 차세대 CSS 변수 아키텍처 설계법 (#93)"
 date: 2026-05-12T16:50:40.377Z
 draft: false
+
 categories: ["tech"]
+tags: ["tech"]
 ---
 
 ## ⚡ Drizzle ORM과 TypeScript: 완벽한 타입 안전 데이터베이스 설계

@@ -2,7 +2,9 @@
 title: "GitHub CLI(gh) 설치 및 터미널에서 깃허브 정복하기"
 date: 2026-05-23T02:17:12.532Z
 draft: false
+
 categories: ["Github"]
+tags: ["Github"]
 ---
 
 

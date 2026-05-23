@@ -15,6 +15,7 @@ function createPost(title, category, content, date) {
     'date: ' + date.toISOString(),
     'draft: false',
     'categories: ["' + category + '"]',
+    'tags: ["' + category + '"]',
     '---',
     '',
     content,

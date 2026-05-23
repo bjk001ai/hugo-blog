@@ -2,7 +2,9 @@
 title: "다크 모드 UI 디자인을 위한 색채 이론 기초"
 date: 2026-05-22T12:57:20.318Z
 draft: false
+
 categories: ["design"]
+tags: ["design"]
 ---
 
 ## 🎨 완벽한 다크 모드(Dark Mode) 설계를 위한 고급 색채 디자인 이론

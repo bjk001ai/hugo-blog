@@ -2,7 +2,9 @@
 title: "실무 관점의 Postgres 테이블 관계 속도 향상 전략 (#81)"
 date: 2026-05-14T02:10:40.371Z
 draft: false
+
 categories: ["design"]
+tags: ["design"]
 ---
 
 ## 🎨 Tailwind CSS v4 반응형 레이아웃 설계 가이드

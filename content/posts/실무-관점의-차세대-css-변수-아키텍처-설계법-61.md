@@ -2,7 +2,9 @@
 title: "실무 관점의 차세대 CSS 변수 아키텍처 설계법 (#61)"
 date: 2026-05-16T09:44:00.360Z
 draft: false
+
 categories: ["design"]
+tags: ["design"]
 ---
 
 ## 🎨 Tailwind CSS v4 반응형 레이아웃 설계 가이드

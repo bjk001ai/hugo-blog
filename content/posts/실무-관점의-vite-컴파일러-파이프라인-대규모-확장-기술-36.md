@@ -2,7 +2,9 @@
 title: "실무 관점의 Vite 컴파일러 파이프라인 대규모 확장 기술 (#36)"
 date: 2026-05-19T07:10:40.345Z
 draft: false
+
 categories: ["tech"]
+tags: ["tech"]
 ---
 
 ## 🗂️ 실무 개발자를 위한 Postgres 인덱스(Indexing) 설계 패턴 총정리

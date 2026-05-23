@@ -2,7 +2,9 @@
 title: "실무 관점의 Drizzle Kit 마이그레이션 리팩토링 패턴 (#99)"
 date: 2026-05-12T00:10:40.379Z
 draft: false
+
 categories: ["life"]
+tags: ["life"]
 ---
 
 ## 💻 원격 소프트웨어 아키텍트의 하루와 고부가가치 시스템 설계

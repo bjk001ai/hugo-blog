@@ -2,7 +2,9 @@
 title: "실무 관점의 TypeScript 엄격 모드 설정 안전한 설계 가이드 (#98)"
 date: 2026-05-12T02:57:20.378Z
 draft: false
+
 categories: ["design"]
+tags: ["design"]
 ---
 
 ## 🎨 완벽한 다크 모드(Dark Mode) 설계를 위한 고급 색채 디자인 이론

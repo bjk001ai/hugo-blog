@@ -2,7 +2,9 @@
 title: "실무 관점의 Drizzle Kit 마이그레이션 리팩토링 패턴 (#75)"
 date: 2026-05-14T18:50:40.369Z
 draft: false
+
 categories: ["life"]
+tags: ["life"]
 ---
 
 ## 🧘 2026년 개발자의 번아웃 예방 및 지속 가능한 코딩 생태계 구축

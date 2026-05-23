@@ -2,7 +2,9 @@
 title: "VSCode 200% 활용법 (플러그인 & 단축키)"
 date: 2026-05-22T02:17:12.550Z
 draft: false
+
 categories: ["DevKit"]
+tags: ["DevKit"]
 ---
 
 

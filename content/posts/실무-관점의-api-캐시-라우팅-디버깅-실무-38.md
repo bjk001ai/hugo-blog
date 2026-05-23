@@ -2,7 +2,9 @@
 title: "실무 관점의 API 캐시 라우팅 디버깅 실무 (#38)"
 date: 2026-05-19T01:37:20.346Z
 draft: false
+
 categories: ["design"]
+tags: ["design"]
 ---
 
 ## 🎨 완벽한 다크 모드(Dark Mode) 설계를 위한 고급 색채 디자인 이론

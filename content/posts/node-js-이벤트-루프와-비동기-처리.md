@@ -2,7 +2,9 @@
 title: "Node.js 이벤트 루프와 비동기 처리"
 date: 2026-05-22T06:10:32.545Z
 draft: false
+
 categories: ["Programming"]
+tags: ["Programming"]
 ---
 
 

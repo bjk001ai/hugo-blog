@@ -2,7 +2,9 @@
 title: "실무 관점의 차세대 CSS 변수 아키텍처 설계법 (#69)"
 date: 2026-05-15T11:30:40.366Z
 draft: false
+
 categories: ["life"]
+tags: ["life"]
 ---
 
 ## 💻 원격 소프트웨어 아키텍트의 하루와 고부가가치 시스템 설계

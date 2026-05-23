@@ -2,7 +2,9 @@
 title: "실무 관점의 API 캐시 라우팅 디버깅 실무 (#94)"
 date: 2026-05-12T14:04:00.377Z
 draft: false
+
 categories: ["tech"]
+tags: ["tech"]
 ---
 
 ## ⚡ 서버리스 에지 함수(Edge Functions) 대기 시간 및 콜드 스타트 극복

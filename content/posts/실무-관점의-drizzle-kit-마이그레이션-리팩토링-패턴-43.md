@@ -2,7 +2,9 @@
 title: "실무 관점의 Drizzle Kit 마이그레이션 리팩토링 패턴 (#43)"
 date: 2026-05-18T11:44:00.349Z
 draft: false
+
 categories: ["tech"]
+tags: ["tech"]
 ---
 
 ## ⚡ Drizzle ORM과 TypeScript: 완벽한 타입 안전 데이터베이스 설계

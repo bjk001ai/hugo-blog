@@ -2,7 +2,9 @@
 title: "Python 비동기 프로그래밍 (asyncio와 코루틴 완벽 실습)"
 date: 2026-05-23T01:10:32.533Z
 draft: false
+
 categories: ["Python"]
+tags: ["Python"]
 ---
 
 

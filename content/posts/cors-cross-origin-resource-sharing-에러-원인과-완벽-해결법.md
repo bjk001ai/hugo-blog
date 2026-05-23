@@ -2,7 +2,9 @@
 title: "CORS(Cross-Origin Resource Sharing) 에러 원인과 완벽 해결법"
 date: 2026-05-22T21:17:12.537Z
 draft: false
+
 categories: ["CS 지식"]
+tags: ["CS 지식"]
 ---
 
 

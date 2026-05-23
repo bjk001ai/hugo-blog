@@ -2,7 +2,9 @@
 title: "실무 관점의 차세대 CSS 변수 아키텍처 설계법 (#85)"
 date: 2026-05-13T15:04:00.373Z
 draft: false
+
 categories: ["life"]
+tags: ["life"]
 ---
 
 ## 🧘 2026년 개발자의 번아웃 예방 및 지속 가능한 코딩 생태계 구축

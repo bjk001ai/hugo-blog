@@ -2,7 +2,9 @@
 title: "React 어플리케이션 성능 최적화: Virtual DOM과 렌더링 최적화"
 date: 2026-05-23T06:10:32.528Z
 draft: false
+
 categories: ["React"]
+tags: ["React"]
 ---
 
 

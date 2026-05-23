@@ -2,7 +2,9 @@
 title: "Docker와 Kubernetes를 활용한 ML 모델 서빙 인프라 구축"
 date: 2026-05-23T05:03:52.529Z
 draft: false
+
 categories: ["MLOps"]
+tags: ["MLOps"]
 ---
 
 

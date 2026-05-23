@@ -2,7 +2,9 @@
 title: "실무 관점의 API 캐시 라우팅 디버깅 실무 (#62)"
 date: 2026-05-16T06:57:20.361Z
 draft: false
+
 categories: ["design"]
+tags: ["design"]
 ---
 
 ## ✨ 실무용 프리미엄 글래스모피즘(Glassmorphic) 디자인 시스템

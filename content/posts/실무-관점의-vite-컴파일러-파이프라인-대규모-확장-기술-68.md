@@ -2,7 +2,9 @@
 title: "실무 관점의 Vite 컴파일러 파이프라인 대규모 확장 기술 (#68)"
 date: 2026-05-15T14:17:20.366Z
 draft: false
+
 categories: ["design"]
+tags: ["design"]
 ---
 
 ## 🎨 완벽한 다크 모드(Dark Mode) 설계를 위한 고급 색채 디자인 이론

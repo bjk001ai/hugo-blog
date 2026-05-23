@@ -2,7 +2,9 @@
 title: "React 19에서 변경된 새로운 기능과 리액트의 미래"
 date: 2026-05-23T08:23:52.524Z
 draft: false
+
 categories: ["React"]
+tags: ["React"]
 ---
 
 

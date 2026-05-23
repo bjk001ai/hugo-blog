@@ -2,7 +2,9 @@
 title: "Next.js App Router 아키텍처 핵심"
 date: 2026-05-22T04:30:32.547Z
 draft: false
+
 categories: ["Programming"]
+tags: ["Programming"]
 ---
 
 
